@@ -1,7 +1,7 @@
 ## MongoDB Queries Task
 
 
-> Writing queries to find the below given datas
+> Writing queries to find the below given datas from [database](./products.json)
 
 
 1. Find all the information about each products.
@@ -24,6 +24,6 @@
 
 10. Delete the products which product price value are 28.
 
-- Queries for finding the datas have been saves in [MongoDB Quesries Task](./MongoDB%20Queries%20Task.pdf) File.
+- Queries for finding the datas from [database](./products.json) have been saves in [MongoDB Quesries Task](./MongoDB%20Queries%20Task.pdf) File.
 
 
